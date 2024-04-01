@@ -1,7 +1,7 @@
 Purpose of the application:
 This application is intended as a teaching aid, for the teaching of subjects dealing with signals and signals. The application is available in English and Slovak language. This application is created for the course Introduction to Signals and Signals, which is taught at the Multimedia and Information and Communication Technologies Department at the Faculty of Electrical Engineering and Information Technology at the University of Žilina.This application was created as my bachelor thesis.
 
-Thesis in application: 
+Themes in application: 
 - Complex numbers
 - Basic signal distribution
 - Fourier series
