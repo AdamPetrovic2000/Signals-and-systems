@@ -33,7 +33,7 @@ The app also includes interactive signal examples where the user can change the 
 
 
 Examples:
-The examples in the application are designed in such a way that the user first calculates the example and draws the signal waveform or its spread based on the calculated result. In order to allow the user to write code, a simple code editor is provided in the application that allows automatic writing of variables and built-in functions. The shortcut to use this feature is CTRL+SPACE. The code editor was created using the open source project CodeMirror available at: https://codemirror.net/5/.The solution is also included in the attachments and can be viewed via the show answer button.
+The examples in the application are designed in such a way that the user first calculates the example and draws the signal waveform or its spread based on the calculated result. In order to allow the user to write code, a simple code editor is provided in the application that allows automatic writing of variables and built-in functions. The shortcut to use this feature is CTRL+SPACE. The code editor was created using the open source project CodeMirror available at: https://codemirror.net/5/. The solution is also included in the attachments and can be viewed via the show answer button.
 
 
 Other features:
